@@ -11,10 +11,4 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false    
     },
-    {
-        "device_id": "00a2407b125cff96",
-        "key": "amir",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    }
 ]
