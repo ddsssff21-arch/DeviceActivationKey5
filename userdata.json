@@ -28,5 +28,11 @@
         "key": "PARSAGAGHI",
         "expirydate": "15-06-2029",
         "Allowoffline": false    
+    },
+    {
+        "device_id": "eb177227a31a01f2",
+        "key": "FORIX3",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false    
     }
 ]
