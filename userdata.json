@@ -40,5 +40,11 @@
         "key": "FORIX4",
         "expirydate": "15-06-2029",
         "Allowoffline": false    
+    },
+    {
+        "device_id": "d39a5841bf347d82",
+        "key": "FORIX5",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false    
     }
 ]
