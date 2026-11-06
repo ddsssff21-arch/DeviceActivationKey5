@@ -59,4 +59,10 @@
         "expirydate": "15-06-2029",
         "Allowoffline": false    
     }
+    {
+        "device_id": "6decd091b57aaef9",
+        "key": "FORIX8",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false    
+    }
 ]
